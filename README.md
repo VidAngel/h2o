@@ -13,7 +13,8 @@ Copyright (c) 2014-2019 [DeNA Co., Ltd.](http://dena.com/), [Kazuho Oku](https:/
 H2O is a new generation HTTP server.
 Not only is it very fast, it also provides much quicker response to end-users when compared to older generations of HTTP servers.
 
-Written in C and licensed under [the MIT License](http://opensource.org/licenses/MIT), it can also be used as a library.
+Written in C and licensed under [the MIT License](http://opensource.org/licenses/MIT) (see LICENSE for more details &
+copyright attribution). It can also be used as a library.
 
 For more information, please refer to the documentation at [h2o.examp1e.net](https://h2o.examp1e.net).
 

@@ -7,6 +7,9 @@ MRuby::GemBox.new do |conf|
 
   # Use standard Array#pack, String#unpack methods
   conf.gem :core => "mruby-pack"
+  
+  # Use postgres module PG
+  conf.gem :core => "mruby-pg"
 
   # Use standard Kernel#sprintf method
   conf.gem :core => "mruby-sprintf"
